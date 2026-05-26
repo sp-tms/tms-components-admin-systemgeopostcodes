@@ -48,7 +48,7 @@ class PostcodesComponent extends BaseComponent
                 // 'includeQ'              => true,
                 'actionsToEnable'       =>
                 [
-                    'view'      => 'system/geo/postcodes',
+                    'edit'      => 'system/geo/postcodes',
                 ]
             ];
 
